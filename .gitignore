@@ -16,5 +16,4 @@ Thumbs.db
 # Environment variables
 .env
 
-# Ignore frontend submodule if already Git repo
-frontend/pdf-intelligence-frontend/
+
