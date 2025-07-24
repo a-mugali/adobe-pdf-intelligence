@@ -24,19 +24,19 @@ This tool allows users to:
 ![Homepage](frontend/pdf-intelligence-frontend/public/screenshots/HomePage.png)
 
 ### 📄 PDF Viewer Embedded
-![PDF Viewer](frontend\pdf-intelligence-frontend\public\screenshots\Viewer.png)
+![PDF Viewer](frontend/pdf-intelligence-frontend/public/screenshots/Viewer.png)
 
 ### 🧠 Persona-Based Insights
-![Insights](frontend\pdf-intelligence-frontend\public\screenshots\Insights.png)
+![Insights](frontend/pdf-intelligence-frontend/public/screenshots/Insights.png)
 
 ### Backend– Enter PDF URL
-![Backend](frontend\pdf-intelligence-frontend\public\screenshots\backend.sample.png)
+![Backend](frontend/pdf-intelligence-frontend/public/screenshots/backend.sample.png)
 ### Backend– Enter PDF URL
-![Backend](frontend\pdf-intelligence-frontend\public\screenshots\backend.persona.png)
+![Backend](frontend/pdf-intelligence-frontend/public/screenshots/backend.persona.png)
 ### Docker– Enter PDF URL
-![Docker](frontend\pdf-intelligence-frontend\public\screenshots\docker.png)
+![Docker](frontend/pdf-intelligence-frontend/public/screenshots/docker.png)
 ### Docker– Enter PDF URL
-![Docker](frontend\pdf-intelligence-frontend\public\screenshots\docker.frontend.backend.png)
+![Docker](frontend/pdf-intelligence-frontend/public/screenshots/docker.frontend.backend.png)
 
 
 
